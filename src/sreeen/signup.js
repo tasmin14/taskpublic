@@ -13,7 +13,7 @@ import { Checkbox } from 'react-native-paper';
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 import Input from '../components/input';
 import CustomButton from '../components/button';
-
+//test
 const SignupScreen = ({ navigation }) => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
